@@ -1,0 +1,3 @@
+trait_level	effect	effect_scope	value
+#trait_level_effects_tables;0;db/trait_level_effects_tables/!str_pestilent			
+bc_plaguelord_trait_4	wh2_dlc16_effect_replenishment_in_foreign_territory	character_to_character_own	1.0000

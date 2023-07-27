@@ -1,0 +1,4 @@
+trait_level	effect	effect_scope	value
+#trait_level_effects_tables;0;db/trait_level_effects_tables/!str_crooktail			
+str_crooktail_repair_organ	wh_main_effect_force_all_campaign_replenishment_rate	character_to_force_own	1.0000
+str_trait_crooktail_1	wh_main_effect_force_all_campaign_replenishment_rate	general_to_force_own	3.0000

@@ -1,0 +1,4 @@
+technology	effect	effect_scope	value
+#technology_effects_junction_tables;0;db/technology_effects_junction_tables/!str_vrrtkin			
+tech_vrr_1_0	wh_main_effect_force_all_campaign_replenishment_rate	faction_to_force_own_unseen	3.0000
+tech_vrr_2_5	wh_main_effect_force_all_campaign_replenishment_rate	faction_to_force_own_unseen	2.0000
